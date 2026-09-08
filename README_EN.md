@@ -39,6 +39,20 @@ The paper uses a soft product-adaptive base color, one sparse printed motif, and
 
 This workflow is **not restricted to Jimeng** and includes no video engine. The Agent must check its actual tool's subject-reference support. The product image controls appearance; it must never become the first frame. The opening frame is intact wrapping paper.
 
+## Video previews
+
+**[▶ Open the playable gallery — three real videos](https://yinxiaowai.github.io/ecommerce-paper-reveal-video/)**
+
+<table>
+  <tr>
+    <td align="center" width="33%"><a href="https://yinxiaowai.github.io/ecommerce-paper-reveal-video/#video-01"><img src="assets/images/video-01-poster.jpg" width="240" alt="Play the designer toy reveal"><br>▶ Designer toy</a></td>
+    <td align="center" width="33%"><a href="https://yinxiaowai.github.io/ecommerce-paper-reveal-video/#video-02"><img src="assets/images/video-02-poster.jpg" width="240" alt="Play the perfume reveal"><br>▶ Perfume</a></td>
+    <td align="center" width="33%"><a href="https://yinxiaowai.github.io/ecommerce-paper-reveal-video/#video-03"><img src="assets/images/video-03-poster.jpg" width="240" alt="Play the canned drink reveal"><br>▶ Canned drink</a></td>
+  </tr>
+</table>
+
+Author-supplied Jimeng results: approximately 5 seconds each, 9:16, 720p. Click a poster to watch or download the actual video. Posters are extracted from their corresponding clips; the videos are not re-edited or re-encoded.
+
 ## Method 1 — Install the Skill
 
 Download the [Skill ZIP](https://github.com/yinxiaowai/ecommerce-paper-reveal-video/releases/latest/download/ecommerce-paper-reveal-video.zip). It contains an `ecommerce-paper-reveal-video/` folder with `SKILL.md`, both complete specifications, and Agent display configuration.
@@ -94,7 +108,7 @@ The generation prompt carries the timeline and essential visible actions. Detail
 
 ## Validation and feedback
 
-The author iterated on the original recipe in Jimeng and accepted the version with paper decoration. This repository generalizes that workflow. Release checks cover documentation, conditional paths, and package integrity; no additional generation or cross-model visual benchmark was performed for this edition.
+The author iterated on the original recipe in Jimeng and accepted the version with paper decoration. This repository generalizes that workflow and now includes three author-supplied video previews. Release checks cover documentation, conditional paths, and package integrity; no additional generation or cross-model visual benchmark was performed for this edition. The clips were supplied without their complete original prompts or exact model settings, so they are not labeled as fresh tests of the portable release.
 
 Reference fidelity, hand anatomy, and paper persistence depend on the model. The Agent checks its prompt and reference settings before submission, and inspects the video only when viewing is possible. A pending task or a prompt is not a finished video; extra paid attempts require authorization.
 

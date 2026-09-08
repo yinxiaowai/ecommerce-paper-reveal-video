@@ -1,0 +1,47 @@
+{
+  "note": "Original author-provided videos, copied without re-encoding. Original complete prompts, exact model settings, and generation specification versions were not supplied; these are effect previews, not a new cross-model benchmark.",
+  "videos": [
+    {
+      "id": "video-01",
+      "source": "Author-supplied Jimeng export",
+      "source_export_id": "8239",
+      "duration_seconds": 5.016667,
+      "width": 720,
+      "height": 1280,
+      "video": "assets/videos/video-01.mp4",
+      "poster": "assets/images/video-01-poster.jpg",
+      "sha256": "6f1b585e92fade2321a75d0a9014b1decbcc755c46cac99f9942cadd5e1f1780",
+      "original_prompt": null,
+      "exact_model": null,
+      "specification_version_at_generation": null
+    },
+    {
+      "id": "video-02",
+      "source": "Author-supplied Jimeng export",
+      "source_export_id": "1992",
+      "duration_seconds": 5.016667,
+      "width": 720,
+      "height": 1280,
+      "video": "assets/videos/video-02.mp4",
+      "poster": "assets/images/video-02-poster.jpg",
+      "sha256": "d92812ed5dbacd31fbd2b1a550bab4da7dad02d7df7a6cb9a807b20ea873ca2d",
+      "original_prompt": null,
+      "exact_model": null,
+      "specification_version_at_generation": null
+    },
+    {
+      "id": "video-03",
+      "source": "Author-supplied Jimeng export",
+      "source_export_id": "6857",
+      "duration_seconds": 5.016667,
+      "width": 720,
+      "height": 1280,
+      "video": "assets/videos/video-03.mp4",
+      "poster": "assets/images/video-03-poster.jpg",
+      "sha256": "dd8ffd56528d5196d27b334e51f209877b70e6493fe88c7453a27d4aef360bf9",
+      "original_prompt": null,
+      "exact_model": null,
+      "specification_version_at_generation": null
+    }
+  ]
+}
