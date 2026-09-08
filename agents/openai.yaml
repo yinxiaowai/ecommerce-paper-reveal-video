@@ -1,0 +1,4 @@
+interface:
+  display_name: "电商商品破纸创意视频"
+  short_description: "用一张商品图创作破纸揭晓短片，无视频工具也能输出完整提示词"
+  default_prompt: "Use $ecommerce-paper-reveal-video with my uploaded product image. Create a 5-second, 9:16 paper reveal video if subject-reference video generation is available; otherwise deliver a ready-to-use video prompt."
