@@ -1,5 +1,5 @@
 {
-  "note": "Original author-provided videos, copied without re-encoding. Original complete prompts, exact model settings, and generation specification versions were not supplied; these are effect previews, not a new cross-model benchmark.",
+  "note": "Original author-provided videos, copied without re-encoding, paired with the original prompts supplied by the author. Exact model settings and generation specification versions remain unspecified; these cases are not a new cross-model benchmark.",
   "videos": [
     {
       "id": "video-01",
@@ -11,9 +11,13 @@
       "video": "assets/videos/video-01.mp4",
       "poster": "assets/images/video-01-poster.jpg",
       "sha256": "6f1b585e92fade2321a75d0a9014b1decbcc755c46cac99f9942cadd5e1f1780",
-      "original_prompt": null,
+      "original_prompt": "assets/prompts/video-01.txt",
       "exact_model": null,
-      "specification_version_at_generation": null
+      "specification_version_at_generation": null,
+      "title_zh": "潮玩手办",
+      "title_en": "Designer toy",
+      "prompt_duration_seconds": 5,
+      "detail_page": "cases/video-01.html"
     },
     {
       "id": "video-02",
@@ -25,9 +29,13 @@
       "video": "assets/videos/video-02.mp4",
       "poster": "assets/images/video-02-poster.jpg",
       "sha256": "d92812ed5dbacd31fbd2b1a550bab4da7dad02d7df7a6cb9a807b20ea873ca2d",
-      "original_prompt": null,
+      "original_prompt": "assets/prompts/video-02.txt",
       "exact_model": null,
-      "specification_version_at_generation": null
+      "specification_version_at_generation": null,
+      "title_zh": "皇冠香水",
+      "title_en": "Perfume",
+      "prompt_duration_seconds": 5,
+      "detail_page": "cases/video-02.html"
     },
     {
       "id": "video-03",
@@ -39,9 +47,13 @@
       "video": "assets/videos/video-03.mp4",
       "poster": "assets/images/video-03-poster.jpg",
       "sha256": "dd8ffd56528d5196d27b334e51f209877b70e6493fe88c7453a27d4aef360bf9",
-      "original_prompt": null,
+      "original_prompt": "assets/prompts/video-03.txt",
       "exact_model": null,
-      "specification_version_at_generation": null
+      "specification_version_at_generation": null,
+      "title_zh": "罐装饮料",
+      "title_en": "Canned drink",
+      "prompt_duration_seconds": 5,
+      "detail_page": "cases/video-03.html"
     },
     {
       "id": "video-04",
@@ -53,9 +65,13 @@
       "video": "assets/videos/video-04.mp4",
       "poster": "assets/images/video-04-poster.jpg",
       "sha256": "d7e2f1d29c663603d3acd4315c6c889734a273dcdbcac349e26d0e380c37b964",
-      "original_prompt": null,
+      "original_prompt": "assets/prompts/video-04.txt",
       "exact_model": null,
-      "specification_version_at_generation": null
+      "specification_version_at_generation": null,
+      "title_zh": "头戴式耳机",
+      "title_en": "Headphones",
+      "prompt_duration_seconds": 4,
+      "detail_page": "cases/video-04.html"
     },
     {
       "id": "video-05",
@@ -67,9 +83,13 @@
       "video": "assets/videos/video-05.mp4",
       "poster": "assets/images/video-05-poster.jpg",
       "sha256": "fe74a14d7780163a6a1b22e7c48408e2f170abdcbad8dc4d5f122bbd4322e442",
-      "original_prompt": null,
+      "original_prompt": "assets/prompts/video-05.txt",
       "exact_model": null,
-      "specification_version_at_generation": null
+      "specification_version_at_generation": null,
+      "title_zh": "高跟鞋",
+      "title_en": "High heel",
+      "prompt_duration_seconds": 5,
+      "detail_page": "cases/video-05.html"
     }
   ]
 }

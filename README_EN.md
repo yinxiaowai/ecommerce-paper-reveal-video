@@ -45,18 +45,18 @@ This workflow is **not restricted to Jimeng** and includes no video engine. The 
 
 <table>
   <tr>
-    <td align="center" width="33%"><a href="https://yinxiaowai.github.io/ecommerce-paper-reveal-video/#video-01"><img src="assets/images/video-01-poster.jpg" width="240" alt="Play the designer toy reveal"><br>▶ Designer toy</a></td>
-    <td align="center" width="33%"><a href="https://yinxiaowai.github.io/ecommerce-paper-reveal-video/#video-02"><img src="assets/images/video-02-poster.jpg" width="240" alt="Play the perfume reveal"><br>▶ Perfume</a></td>
-    <td align="center" width="33%"><a href="https://yinxiaowai.github.io/ecommerce-paper-reveal-video/#video-03"><img src="assets/images/video-03-poster.jpg" width="240" alt="Play the canned drink reveal"><br>▶ Canned drink</a></td>
+    <td align="center" width="33%"><a href="https://yinxiaowai.github.io/ecommerce-paper-reveal-video/cases/video-01.html"><img src="assets/images/video-01-poster.jpg" width="240" alt="Play the designer toy reveal"><br>▶ Designer toy</a></td>
+    <td align="center" width="33%"><a href="https://yinxiaowai.github.io/ecommerce-paper-reveal-video/cases/video-02.html"><img src="assets/images/video-02-poster.jpg" width="240" alt="Play the perfume reveal"><br>▶ Perfume</a></td>
+    <td align="center" width="33%"><a href="https://yinxiaowai.github.io/ecommerce-paper-reveal-video/cases/video-03.html"><img src="assets/images/video-03-poster.jpg" width="240" alt="Play the canned drink reveal"><br>▶ Canned drink</a></td>
   </tr>
   <tr>
-    <td align="center" width="33%"><a href="https://yinxiaowai.github.io/ecommerce-paper-reveal-video/#video-04"><img src="assets/images/video-04-poster.jpg" width="240" alt="Play the headphone reveal"><br>▶ Headphones</a></td>
-    <td align="center" width="33%"><a href="https://yinxiaowai.github.io/ecommerce-paper-reveal-video/#video-05"><img src="assets/images/video-05-poster.jpg" width="240" alt="Play the high heel reveal"><br>▶ High heel</a></td>
+    <td align="center" width="33%"><a href="https://yinxiaowai.github.io/ecommerce-paper-reveal-video/cases/video-04.html"><img src="assets/images/video-04-poster.jpg" width="240" alt="Play the headphone reveal"><br>▶ Headphones</a></td>
+    <td align="center" width="33%"><a href="https://yinxiaowai.github.io/ecommerce-paper-reveal-video/cases/video-05.html"><img src="assets/images/video-05-poster.jpg" width="240" alt="Play the high heel reveal"><br>▶ High heel</a></td>
     <td width="33%"></td>
   </tr>
 </table>
 
-Author-supplied Jimeng results: approximately 4–5 seconds, 9:16, 720p / 1080p. Click a poster to watch or download the actual video. Posters are extracted from their corresponding clips; the videos are not re-edited or re-encoded.
+Author-supplied Jimeng results: approximately 4–5 seconds, 9:16, 720p / 1080p. Click a poster or title for its case page: the video appears above its complete original Chinese prompt, with copy and TXT download controls. The homepage keeps the consistent preview grid. Posters are extracted from their corresponding clips; the videos are not re-edited or re-encoded.
 
 ## Method 1 — Install the Skill
 
@@ -113,7 +113,7 @@ The generation prompt carries the timeline and essential visible actions. Detail
 
 ## Validation and feedback
 
-The author iterated on the original recipe in Jimeng and accepted the version with paper decoration. This repository generalizes that workflow and now includes five author-supplied video previews. Release checks cover documentation, conditional paths, and package integrity; no additional generation or cross-model visual benchmark was performed for this edition. The clips were supplied without their complete original prompts or exact model settings, so they are not labeled as fresh tests of the portable release.
+The author iterated on the original recipe in Jimeng and accepted the version with paper decoration. This repository generalizes that workflow and includes five author-supplied videos paired with their complete original prompts. Case prompts retain their original parameters, wording, and image references instead of being replaced with the generic template; bind your own product image when reusing them. Exact model settings and specification versions at generation remain unspecified, so these are not labeled as fresh tests of the portable release. Release checks cover documentation, conditional paths, and package integrity, not a cross-model visual benchmark.
 
 Reference fidelity, hand anatomy, and paper persistence depend on the model. The Agent checks its prompt and reference settings before submission, and inspects the video only when viewing is possible. A pending task or a prompt is not a finished video; extra paid attempts require authorization.
 
