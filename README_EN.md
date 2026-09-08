@@ -41,7 +41,7 @@ This workflow is **not restricted to Jimeng** and includes no video engine. The 
 
 ## Video previews
 
-**[▶ Open the playable gallery — three real videos](https://yinxiaowai.github.io/ecommerce-paper-reveal-video/)**
+**[▶ Open the playable gallery — four real videos](https://yinxiaowai.github.io/ecommerce-paper-reveal-video/)**
 
 <table>
   <tr>
@@ -51,7 +51,11 @@ This workflow is **not restricted to Jimeng** and includes no video engine. The 
   </tr>
 </table>
 
-Author-supplied Jimeng results: approximately 5 seconds each, 9:16, 720p. Click a poster to watch or download the actual video. Posters are extracted from their corresponding clips; the videos are not re-edited or re-encoded.
+**New: Headphones · approximately 4 seconds**
+
+[<img src="assets/images/video-04-poster.jpg" width="240" alt="Play the headphone reveal">](https://yinxiaowai.github.io/ecommerce-paper-reveal-video/#video-04)
+
+Author-supplied Jimeng results: approximately 4–5 seconds, 9:16, 720p. Click a poster to watch or download the actual video. Posters are extracted from their corresponding clips; the videos are not re-edited or re-encoded.
 
 ## Method 1 — Install the Skill
 
@@ -108,7 +112,7 @@ The generation prompt carries the timeline and essential visible actions. Detail
 
 ## Validation and feedback
 
-The author iterated on the original recipe in Jimeng and accepted the version with paper decoration. This repository generalizes that workflow and now includes three author-supplied video previews. Release checks cover documentation, conditional paths, and package integrity; no additional generation or cross-model visual benchmark was performed for this edition. The clips were supplied without their complete original prompts or exact model settings, so they are not labeled as fresh tests of the portable release.
+The author iterated on the original recipe in Jimeng and accepted the version with paper decoration. This repository generalizes that workflow and now includes four author-supplied video previews. Release checks cover documentation, conditional paths, and package integrity; no additional generation or cross-model visual benchmark was performed for this edition. The clips were supplied without their complete original prompts or exact model settings, so they are not labeled as fresh tests of the portable release.
 
 Reference fidelity, hand anatomy, and paper persistence depend on the model. The Agent checks its prompt and reference settings before submission, and inspects the video only when viewing is possible. A pending task or a prompt is not a finished video; extra paid attempts require authorization.
 

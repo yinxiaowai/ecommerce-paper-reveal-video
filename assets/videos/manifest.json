@@ -42,6 +42,20 @@
       "original_prompt": null,
       "exact_model": null,
       "specification_version_at_generation": null
+    },
+    {
+      "id": "video-04",
+      "source": "Author-supplied Jimeng export",
+      "source_export_id": "7926",
+      "duration_seconds": 4.016667,
+      "width": 720,
+      "height": 1280,
+      "video": "assets/videos/video-04.mp4",
+      "poster": "assets/images/video-04-poster.jpg",
+      "sha256": "d7e2f1d29c663603d3acd4315c6c889734a273dcdbcac349e26d0e380c37b964",
+      "original_prompt": null,
+      "exact_model": null,
+      "specification_version_at_generation": null
     }
   ]
 }
