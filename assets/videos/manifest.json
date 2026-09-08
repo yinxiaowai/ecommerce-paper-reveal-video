@@ -56,6 +56,20 @@
       "original_prompt": null,
       "exact_model": null,
       "specification_version_at_generation": null
+    },
+    {
+      "id": "video-05",
+      "source": "Author-supplied video",
+      "source_export_id": null,
+      "duration_seconds": 5.066667,
+      "width": 1080,
+      "height": 1920,
+      "video": "assets/videos/video-05.mp4",
+      "poster": "assets/images/video-05-poster.jpg",
+      "sha256": "fe74a14d7780163a6a1b22e7c48408e2f170abdcbad8dc4d5f122bbd4322e442",
+      "original_prompt": null,
+      "exact_model": null,
+      "specification_version_at_generation": null
     }
   ]
 }

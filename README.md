@@ -50,7 +50,7 @@ Product Paper Reveal 是一个开放的 Agent Skill。默认 **5 秒、9:16 竖�
 
 ## 视频效果预览
 
-**[▶ 打开视频预览页，直接播放四条成片](https://yinxiaowai.github.io/ecommerce-paper-reveal-video/)**
+**[▶ 打开视频预览页，直接播放五条成片](https://yinxiaowai.github.io/ecommerce-paper-reveal-video/)**
 
 <table>
   <tr>
@@ -64,7 +64,11 @@ Product Paper Reveal 是一个开放的 Agent Skill。默认 **5 秒、9:16 竖�
 
 [<img src="assets/images/video-04-poster.jpg" width="240" alt="播放头戴式耳机破纸展示视频">](https://yinxiaowai.github.io/ecommerce-paper-reveal-video/#video-04)
 
-四条均为作者提供的即梦实测成片，约 4–5 秒、9:16、720P。点击封面进入可播放页面；页面也提供视频下载。封面取自对应视频，成片未重新剪辑或压缩。
+**新增：高跟鞋 · 约 5 秒 · 1080P**
+
+[<img src="assets/images/video-05-poster.jpg" width="240" alt="播放高跟鞋破纸展示视频">](https://yinxiaowai.github.io/ecommerce-paper-reveal-video/#video-05)
+
+五条均为作者提供的即梦实测成片，约 4–5 秒、9:16、720P / 1080P。点击封面进入可播放页面；页面也提供视频下载。封面取自对应视频，成片未重新剪辑或压缩。
 
 ## 方法一：安装为 Skill
 
@@ -121,7 +125,7 @@ https://github.com/yinxiaowai/ecommerce-paper-reveal-video/blob/v1.0.0/reference
 
 ## 验证范围与反馈
 
-原始玩法经过作者在即梦多轮测试，并确认带纸面点缀的版本可用。本仓库是在该版本上整理的通用执行规则，现提供作者的四条实际成片预览。通用版发布检查文档、条件分支和安装包一致性，未新增视频生成测试，也未验证所有模型的画面表现。示例的原始完整提示词和确切模型配置未随素材提供，不将其标为通用版的重新生成测试。
+原始玩法经过作者在即梦多轮测试，并确认带纸面点缀的版本可用。本仓库是在该版本上整理的通用执行规则，现提供作者的五条实际成片预览。通用版发布检查文档、条件分支和安装包一致性，未新增视频生成测试，也未验证所有模型的画面表现。示例的原始完整提示词和确切模型配置未随素材提供，不将其标为通用版的重新生成测试。
 
 参考图一致性、手部结构和纸面持续存在仍取决于生成模型。Agent 会先审查提示词与参考输入，能查看结果时再检查视频；不会把排队状态或提示词当成成片，也不会未经授权自动重复付费生成。
 
