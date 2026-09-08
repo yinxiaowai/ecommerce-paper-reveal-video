@@ -49,15 +49,12 @@ This workflow is **not restricted to Jimeng** and includes no video engine. The 
     <td align="center" width="33%"><a href="https://yinxiaowai.github.io/ecommerce-paper-reveal-video/#video-02"><img src="assets/images/video-02-poster.jpg" width="240" alt="Play the perfume reveal"><br>▶ Perfume</a></td>
     <td align="center" width="33%"><a href="https://yinxiaowai.github.io/ecommerce-paper-reveal-video/#video-03"><img src="assets/images/video-03-poster.jpg" width="240" alt="Play the canned drink reveal"><br>▶ Canned drink</a></td>
   </tr>
+  <tr>
+    <td align="center" width="33%"><a href="https://yinxiaowai.github.io/ecommerce-paper-reveal-video/#video-04"><img src="assets/images/video-04-poster.jpg" width="240" alt="Play the headphone reveal"><br>▶ Headphones</a></td>
+    <td align="center" width="33%"><a href="https://yinxiaowai.github.io/ecommerce-paper-reveal-video/#video-05"><img src="assets/images/video-05-poster.jpg" width="240" alt="Play the high heel reveal"><br>▶ High heel</a></td>
+    <td width="33%"></td>
+  </tr>
 </table>
-
-**New: Headphones · approximately 4 seconds**
-
-[<img src="assets/images/video-04-poster.jpg" width="240" alt="Play the headphone reveal">](https://yinxiaowai.github.io/ecommerce-paper-reveal-video/#video-04)
-
-**New: High heel · approximately 5 seconds · 1080p**
-
-[<img src="assets/images/video-05-poster.jpg" width="240" alt="Play the high heel reveal">](https://yinxiaowai.github.io/ecommerce-paper-reveal-video/#video-05)
 
 Author-supplied Jimeng results: approximately 4–5 seconds, 9:16, 720p / 1080p. Click a poster to watch or download the actual video. Posters are extracted from their corresponding clips; the videos are not re-edited or re-encoded.
 

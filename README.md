@@ -58,15 +58,12 @@ Product Paper Reveal 是一个开放的 Agent Skill。默认 **5 秒、9:16 竖�
     <td align="center" width="33%"><a href="https://yinxiaowai.github.io/ecommerce-paper-reveal-video/#video-02"><img src="assets/images/video-02-poster.jpg" width="240" alt="播放皇冠香水破纸展示视频"><br>▶ 皇冠香水</a></td>
     <td align="center" width="33%"><a href="https://yinxiaowai.github.io/ecommerce-paper-reveal-video/#video-03"><img src="assets/images/video-03-poster.jpg" width="240" alt="播放罐装饮料破纸展示视频"><br>▶ 罐装饮料</a></td>
   </tr>
+  <tr>
+    <td align="center" width="33%"><a href="https://yinxiaowai.github.io/ecommerce-paper-reveal-video/#video-04"><img src="assets/images/video-04-poster.jpg" width="240" alt="播放头戴式耳机破纸展示视频"><br>▶ 头戴式耳机</a></td>
+    <td align="center" width="33%"><a href="https://yinxiaowai.github.io/ecommerce-paper-reveal-video/#video-05"><img src="assets/images/video-05-poster.jpg" width="240" alt="播放高跟鞋破纸展示视频"><br>▶ 高跟鞋</a></td>
+    <td width="33%"></td>
+  </tr>
 </table>
-
-**新增：头戴式耳机 · 约 4 秒**
-
-[<img src="assets/images/video-04-poster.jpg" width="240" alt="播放头戴式耳机破纸展示视频">](https://yinxiaowai.github.io/ecommerce-paper-reveal-video/#video-04)
-
-**新增：高跟鞋 · 约 5 秒 · 1080P**
-
-[<img src="assets/images/video-05-poster.jpg" width="240" alt="播放高跟鞋破纸展示视频">](https://yinxiaowai.github.io/ecommerce-paper-reveal-video/#video-05)
 
 五条均为作者提供的即梦实测成片，约 4–5 秒、9:16、720P / 1080P。点击封面进入可播放页面；页面也提供视频下载。封面取自对应视频，成片未重新剪辑或压缩。
 
